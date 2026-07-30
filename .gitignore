@@ -25,4 +25,5 @@ pnpm-debug.log*
 .vscode/
 .idea/
 
- reference/homepage/my-home.png
+my-home.png
+home-1.png
